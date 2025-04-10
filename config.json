@@ -1,0 +1,15 @@
+{
+  "keycloak": {
+    "url": "http://test5.intranet.terraria.com:8081",
+    "realmName": "VERA",
+    "cliendId" : "VERA",
+    "clientSecret" : "YOOBONzwrjNnCxRJ5kYX4k424yAzYwmN"    
+  },
+  "mail": {
+    "address": "f.ferrari@terraria.com",
+    "smtpServer": "mail2.terraria.com" 
+  },
+  "site": {
+  	"url": "vera.terraria.com"
+  }
+}
